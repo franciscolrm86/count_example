@@ -21,6 +21,6 @@ variable "vm_size"{
 variable "administrator_login"{
   type=string
 }
-variable "administrator_loging_password"{
+variable "administrator_login_password"{
   type=string
 }
